@@ -1,0 +1,13 @@
+{
+  "max_seq_len": 40,
+  "max_vocab_size": 5000,
+  "bloom_levels": {
+    "1": "Remember",
+    "2": "Understand",
+    "3": "Apply",
+    "4": "Analyze",
+    "5": "Evaluate",
+    "6": "Create"
+  },
+  "test_accuracy": 1.0
+}

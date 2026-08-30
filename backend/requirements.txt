@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+tensorflow
+pandas
+numpy
+scikit-learn
+openpyxl
+pypdf
+python-multipart
+
+# Persistence
+sqlalchemy
+python-dotenv
+
+# AI-assisted syllabus extraction
+anthropic
+python-pptx
+python-docx

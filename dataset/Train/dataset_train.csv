@@ -1,0 +1,577 @@
+﻿question,bloom_level,bloom_level_number
+"Define CPU, RAM, and persistent storage.",Remember,1
+"Explain how CPU, RAM, and persistent storage is relevant when a workstation slows when several applications run.",Understand,2
+"When a workstation slows when several applications run, how would you apply CPU, RAM, and persistent storage to improve responsiveness within a limited budget? State the concrete steps.",Apply,3
+"Analyze the situation in which a workstation slows when several applications run. What evidence would show that CPU, RAM, and persistent storage is a major factor?",Analyze,4
+"Evaluate whether CPU, RAM, and persistent storage or upgrading only the display is more suitable when a workstation slows when several applications run. Justify which better supports the goal to improve responsiveness within a limited budget.",Evaluate,5
+"Design a hardware-upgrade recommendation that uses CPU, RAM, and persistent storage for the situation where a workstation slows when several applications run and must improve responsiveness within a limited budget. Include its main components and decisions.",Create,6
+List two standard characteristics of binary data representation.,Remember,1
+Summarize the main difference between binary data representation and treating decimal and binary units as identical.,Understand,2
+Use binary data representation to solve this practical problem: a file-size calculation gives an unexpected result. Show how the solution would represent values accurately.,Apply,3
+"Break down the problem where a file-size calculation gives an unexpected result, and distinguish the role of binary data representation from treating decimal and binary units as identical.",Analyze,4
+"Critique a proposal to use binary data representation when a file-size calculation gives an unexpected result. Judge it against security, cost, performance, and the need to represent values accurately.",Evaluate,5
+Propose an original conversion guide based on binary data representation to address the case where a file-size calculation gives an unexpected result. Show how the proposal will represent values accurately.,Create,6
+State the primary purpose of system software and application software.,Remember,1
+Give an example that illustrates system software and application software in the situation where a new office needs a basic software stack.,Understand,2
+Demonstrate how system software and application software would be used to produce a software deployment plan for the case where a new office needs a basic software stack.,Apply,3
+"Examine the causes and effects in the case where a new office needs a basic software stack, focusing on system software and application software.",Analyze,4
+Assess the risks and benefits of choosing system software and application software instead of installing applications without an operating system plan for the case where a new office needs a basic software stack.,Evaluate,5
+"Develop a complete software deployment plan using system software and application software for the case where a new office needs a basic software stack, including assumptions, structure, and validation steps.",Create,6
+"Name two components or techniques commonly associated with input, output, and peripheral devices.",Remember,1
+"Explain why input, output, and peripheral devices can help to support users with different needs.",Understand,2
+"Configure or implement input, output, and peripheral devices for a system in which an accessible computer lab is being equipped, so that it can support users with different needs.",Apply,3
+"Trace the system behavior when an accessible computer lab is being equipped, and identify which part of input, output, and peripheral devices prevents it from support users with different needs.",Analyze,4
+"Recommend whether input, output, and peripheral devices should be adopted when an accessible computer lab is being equipped. Defend the recommendation using explicit criteria and the goal to support users with different needs.",Evaluate,5
+"Construct a prototype specification for a device selection specification that applies input, output, and peripheral devices when an accessible computer lab is being equipped and is intended to support users with different needs.",Create,6
+What is meant by the term file and folder management?,Remember,1
+Describe in your own words how file and folder management works when project documents are duplicated and difficult to locate.,Understand,2
+Replace allowing unstructured personal folders with an appropriate use of file and folder management in the situation where project documents are duplicated and difficult to locate. What would you do?,Apply,3
+Compare the consequences of using file and folder management and allowing unstructured personal folders in the situation where project documents are duplicated and difficult to locate.,Analyze,4
+"Review a proposed file-organization standard based on file and folder management for the situation where project documents are duplicated and difficult to locate. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new file-organization standard that combines file and folder management with an improvement over allowing unstructured personal folders for the situation where project documents are duplicated and difficult to locate.,Create,6
+Identify one common use of virtualization.,Remember,1
+Explain the relationship between virtualization and buying a separate computer for every environment.,Understand,2
+"Apply the rules of virtualization to the case where a training lab must run several operating systems on limited hardware, and determine the next action needed to isolate environments while controlling cost.",Apply,3
+"Categorize the technical factors involved when a training lab must run several operating systems on limited hardware, and show how they relate to virtualization.",Analyze,4
+"Prioritize virtualization and buying a separate computer for every environment for the situation where a training lab must run several operating systems on limited hardware, and justify the order according to how well each can isolate environments while controlling cost.",Evaluate,5
+"Create an implementation and evaluation plan for a virtual lab design using virtualization, given that a training lab must run several operating systems on limited hardware and the solution must isolate environments while controlling cost.",Create,6
+Define variables and data types.,Remember,1
+"Explain how variables and data types is relevant when a program stores ages, prices, and user names.",Understand,2
+"When a program stores ages, prices, and user names, how would you apply variables and data types to preserve valid values and operations? State the concrete steps.",Apply,3
+"Analyze the situation in which a program stores ages, prices, and user names. What evidence would show that variables and data types is a major factor?",Analyze,4
+"Evaluate whether variables and data types or representing every value as text is more suitable when a program stores ages, prices, and user names. Justify which better supports the goal to preserve valid values and operations.",Evaluate,5
+"Design a data-model specification that uses variables and data types for the situation where a program stores ages, prices, and user names and must preserve valid values and operations. Include its main components and decisions.",Create,6
+List two standard characteristics of selection and iteration.,Remember,1
+Summarize the main difference between selection and iteration and copying the same statements for every transaction.,Understand,2
+Use selection and iteration to solve this practical problem: a billing program applies rules to many transactions. Show how the solution would process all records correctly.,Apply,3
+"Break down the problem where a billing program applies rules to many transactions, and distinguish the role of selection and iteration from copying the same statements for every transaction.",Analyze,4
+"Critique a proposal to use selection and iteration when a billing program applies rules to many transactions. Judge it against security, cost, performance, and the need to process all records correctly.",Evaluate,5
+Propose an original control-flow solution based on selection and iteration to address the case where a billing program applies rules to many transactions. Show how the proposal will process all records correctly.,Create,6
+State the primary purpose of functions and parameter passing.,Remember,1
+Give an example that illustrates functions and parameter passing in the situation where a long program repeats the same calculation in several places.,Understand,2
+Demonstrate how functions and parameter passing would be used to produce a modular program design for the case where a long program repeats the same calculation in several places.,Apply,3
+"Examine the causes and effects in the case where a long program repeats the same calculation in several places, focusing on functions and parameter passing.",Analyze,4
+Assess the risks and benefits of choosing functions and parameter passing instead of duplicating the calculation for the case where a long program repeats the same calculation in several places.,Evaluate,5
+"Develop a complete modular program design using functions and parameter passing for the case where a long program repeats the same calculation in several places, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with debugging and exception handling.,Remember,1
+Explain why debugging and exception handling can help to recover safely and inform the user.,Understand,2
+"Configure or implement debugging and exception handling for a system in which an application crashes on invalid user input, so that it can recover safely and inform the user.",Apply,3
+"Trace the system behavior when an application crashes on invalid user input, and identify which part of debugging and exception handling prevents it from recover safely and inform the user.",Analyze,4
+Recommend whether debugging and exception handling should be adopted when an application crashes on invalid user input. Defend the recommendation using explicit criteria and the goal to recover safely and inform the user.,Evaluate,5
+Construct a prototype specification for a error-handling strategy that applies debugging and exception handling when an application crashes on invalid user input and is intended to recover safely and inform the user.,Create,6
+What is meant by the term recursion?,Remember,1
+Describe in your own words how recursion works when a program must traverse a nested folder structure.,Understand,2
+Replace using one fixed-depth sequence of loops with an appropriate use of recursion in the situation where a program must traverse a nested folder structure. What would you do?,Apply,3
+Compare the consequences of using recursion and using one fixed-depth sequence of loops in the situation where a program must traverse a nested folder structure.,Analyze,4
+"Review a proposed recursive algorithm based on recursion for the situation where a program must traverse a nested folder structure. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new recursive algorithm that combines recursion with an improvement over using one fixed-depth sequence of loops for the situation where a program must traverse a nested folder structure.,Create,6
+Identify one common use of file input and output.,Remember,1
+Explain the relationship between file input and output and loading the entire file into memory.,Understand,2
+"Apply the rules of file input and output to the case where a utility must process a large log file, and determine the next action needed to use memory efficiently and preserve records.",Apply,3
+"Categorize the technical factors involved when a utility must process a large log file, and show how they relate to file input and output.",Analyze,4
+"Prioritize file input and output and loading the entire file into memory for the situation where a utility must process a large log file, and justify the order according to how well each can use memory efficiently and preserve records.",Evaluate,5
+"Create an implementation and evaluation plan for a file-processing routine using file input and output, given that a utility must process a large log file and the solution must use memory efficiently and preserve records.",Create,6
+Define encapsulation.,Remember,1
+Explain how encapsulation is relevant when an account balance is changed directly by unrelated code.,Understand,2
+"When an account balance is changed directly by unrelated code, how would you apply encapsulation to protect invariants while allowing valid updates? State the concrete steps.",Apply,3
+Analyze the situation in which an account balance is changed directly by unrelated code. What evidence would show that encapsulation is a major factor?,Analyze,4
+Evaluate whether encapsulation or exposing all fields publicly is more suitable when an account balance is changed directly by unrelated code. Justify which better supports the goal to protect invariants while allowing valid updates.,Evaluate,5
+Design a class interface that uses encapsulation for the situation where an account balance is changed directly by unrelated code and must protect invariants while allowing valid updates. Include its main components and decisions.,Create,6
+List two standard characteristics of inheritance.,Remember,1
+Summarize the main difference between inheritance and copying the shared code into every class.,Understand,2
+Use inheritance to solve this practical problem: several employee types share behavior but also have special rules. Show how the solution would reuse behavior without excessive coupling.,Apply,3
+"Break down the problem where several employee types share behavior but also have special rules, and distinguish the role of inheritance from copying the shared code into every class.",Analyze,4
+"Critique a proposal to use inheritance when several employee types share behavior but also have special rules. Judge it against security, cost, performance, and the need to reuse behavior without excessive coupling.",Evaluate,5
+Propose an original class hierarchy based on inheritance to address the case where several employee types share behavior but also have special rules. Show how the proposal will reuse behavior without excessive coupling.,Create,6
+State the primary purpose of polymorphism.,Remember,1
+Give an example that illustrates polymorphism in the situation where a drawing application handles many shape types.,Understand,2
+Demonstrate how polymorphism would be used to produce a polymorphic design for the case where a drawing application handles many shape types.,Apply,3
+"Examine the causes and effects in the case where a drawing application handles many shape types, focusing on polymorphism.",Analyze,4
+Assess the risks and benefits of choosing polymorphism instead of using a long type-checking conditional for the case where a drawing application handles many shape types.,Evaluate,5
+"Develop a complete polymorphic design using polymorphism for the case where a drawing application handles many shape types, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with abstraction and interfaces.,Remember,1
+Explain why abstraction and interfaces can help to isolate provider-specific details.,Understand,2
+"Configure or implement abstraction and interfaces for a system in which multiple payment providers must be interchangeable, so that it can isolate provider-specific details.",Apply,3
+"Trace the system behavior when multiple payment providers must be interchangeable, and identify which part of abstraction and interfaces prevents it from isolate provider-specific details.",Analyze,4
+Recommend whether abstraction and interfaces should be adopted when multiple payment providers must be interchangeable. Defend the recommendation using explicit criteria and the goal to isolate provider-specific details.,Evaluate,5
+Construct a prototype specification for a payment abstraction that applies abstraction and interfaces when multiple payment providers must be interchangeable and is intended to isolate provider-specific details.,Create,6
+What is meant by the term SOLID design principles?,Remember,1
+Describe in your own words how SOLID design principles works when a service class changes for many unrelated reasons.,Understand,2
+Replace adding more responsibilities to the same class with an appropriate use of SOLID design principles in the situation where a service class changes for many unrelated reasons. What would you do?,Apply,3
+Compare the consequences of using SOLID design principles and adding more responsibilities to the same class in the situation where a service class changes for many unrelated reasons.,Analyze,4
+"Review a proposed refactoring proposal based on SOLID design principles for the situation where a service class changes for many unrelated reasons. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new refactoring proposal that combines SOLID design principles with an improvement over adding more responsibilities to the same class for the situation where a service class changes for many unrelated reasons.,Create,6
+Identify one common use of design patterns.,Remember,1
+Explain the relationship between design patterns and scattering constructor logic across modules.,Understand,2
+"Apply the rules of design patterns to the case where object creation varies by configuration and environment, and determine the next action needed to centralize creation without hard-coded dependencies.",Apply,3
+"Categorize the technical factors involved when object creation varies by configuration and environment, and show how they relate to design patterns.",Analyze,4
+"Prioritize design patterns and scattering constructor logic across modules for the situation where object creation varies by configuration and environment, and justify the order according to how well each can centralize creation without hard-coded dependencies.",Evaluate,5
+"Create an implementation and evaluation plan for a pattern-based design using design patterns, given that object creation varies by configuration and environment and the solution must centralize creation without hard-coded dependencies.",Create,6
+Define arrays and linked lists.,Remember,1
+Explain how arrays and linked lists is relevant when a collection requires frequent middle insertions and indexed reads.,Understand,2
+"When a collection requires frequent middle insertions and indexed reads, how would you apply arrays and linked lists to balance update and access performance? State the concrete steps.",Apply,3
+Analyze the situation in which a collection requires frequent middle insertions and indexed reads. What evidence would show that arrays and linked lists is a major factor?,Analyze,4
+Evaluate whether arrays and linked lists or choosing a structure without considering operations is more suitable when a collection requires frequent middle insertions and indexed reads. Justify which better supports the goal to balance update and access performance.,Evaluate,5
+Design a data-structure recommendation that uses arrays and linked lists for the situation where a collection requires frequent middle insertions and indexed reads and must balance update and access performance. Include its main components and decisions.,Create,6
+List two standard characteristics of stacks and queues.,Remember,1
+Summarize the main difference between stacks and queues and removing requests in arbitrary order.,Understand,2
+Use stacks and queues to solve this practical problem: a support system must process requests in arrival order. Show how the solution would preserve the required ordering rule.,Apply,3
+"Break down the problem where a support system must process requests in arrival order, and distinguish the role of stacks and queues from removing requests in arbitrary order.",Analyze,4
+"Critique a proposal to use stacks and queues when a support system must process requests in arrival order. Judge it against security, cost, performance, and the need to preserve the required ordering rule.",Evaluate,5
+Propose an original request-processing structure based on stacks and queues to address the case where a support system must process requests in arrival order. Show how the proposal will preserve the required ordering rule.,Create,6
+State the primary purpose of hash tables.,Remember,1
+Give an example that illustrates hash tables in the situation where a service performs frequent exact-key lookups.,Understand,2
+Demonstrate how hash tables would be used to produce a lookup structure for the case where a service performs frequent exact-key lookups.,Apply,3
+"Examine the causes and effects in the case where a service performs frequent exact-key lookups, focusing on hash tables.",Analyze,4
+Assess the risks and benefits of choosing hash tables instead of using a sequential scan for every lookup for the case where a service performs frequent exact-key lookups.,Evaluate,5
+"Develop a complete lookup structure using hash tables for the case where a service performs frequent exact-key lookups, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with trees.,Remember,1
+Explain why trees can help to support efficient search and ordered output.,Understand,2
+"Configure or implement trees for a system in which a file index must support ordered traversal and search, so that it can support efficient search and ordered output.",Apply,3
+"Trace the system behavior when a file index must support ordered traversal and search, and identify which part of trees prevents it from support efficient search and ordered output.",Analyze,4
+Recommend whether trees should be adopted when a file index must support ordered traversal and search. Defend the recommendation using explicit criteria and the goal to support efficient search and ordered output.,Evaluate,5
+Construct a prototype specification for a tree-based index that applies trees when a file index must support ordered traversal and search and is intended to support efficient search and ordered output.,Create,6
+What is meant by the term graphs?,Remember,1
+Describe in your own words how graphs works when a delivery platform must find routes between locations.,Understand,2
+Replace modeling every route as an independent text note with an appropriate use of graphs in the situation where a delivery platform must find routes between locations. What would you do?,Apply,3
+Compare the consequences of using graphs and modeling every route as an independent text note in the situation where a delivery platform must find routes between locations.,Analyze,4
+"Review a proposed graph model based on graphs for the situation where a delivery platform must find routes between locations. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new graph model that combines graphs with an improvement over modeling every route as an independent text note for the situation where a delivery platform must find routes between locations.,Create,6
+Identify one common use of sorting and searching algorithms.,Remember,1
+Explain the relationship between sorting and searching algorithms and re-sorting it before every search.,Understand,2
+"Apply the rules of sorting and searching algorithms to the case where a large dataset must be searched repeatedly, and determine the next action needed to minimize total processing time.",Apply,3
+"Categorize the technical factors involved when a large dataset must be searched repeatedly, and show how they relate to sorting and searching algorithms.",Analyze,4
+"Prioritize sorting and searching algorithms and re-sorting it before every search for the situation where a large dataset must be searched repeatedly, and justify the order according to how well each can minimize total processing time.",Evaluate,5
+"Create an implementation and evaluation plan for a algorithm selection plan using sorting and searching algorithms, given that a large dataset must be searched repeatedly and the solution must minimize total processing time.",Create,6
+Define entity-relationship modeling.,Remember,1
+"Explain how entity-relationship modeling is relevant when a clinic must store patients, doctors, visits, and prescriptions.",Understand,2
+"When a clinic must store patients, doctors, visits, and prescriptions, how would you apply entity-relationship modeling to represent relationships without ambiguity? State the concrete steps.",Apply,3
+"Analyze the situation in which a clinic must store patients, doctors, visits, and prescriptions. What evidence would show that entity-relationship modeling is a major factor?",Analyze,4
+"Evaluate whether entity-relationship modeling or placing all information in one unstructured table is more suitable when a clinic must store patients, doctors, visits, and prescriptions. Justify which better supports the goal to represent relationships without ambiguity.",Evaluate,5
+"Design a ER model that uses entity-relationship modeling for the situation where a clinic must store patients, doctors, visits, and prescriptions and must represent relationships without ambiguity. Include its main components and decisions.",Create,6
+List two standard characteristics of normalization.,Remember,1
+Summarize the main difference between normalization and keeping the duplicated design.,Understand,2
+Use normalization to solve this practical problem: customer and order data contain repeated values and update anomalies. Show how the solution would reduce anomalies while preserving required queries.,Apply,3
+"Break down the problem where customer and order data contain repeated values and update anomalies, and distinguish the role of normalization from keeping the duplicated design.",Analyze,4
+"Critique a proposal to use normalization when customer and order data contain repeated values and update anomalies. Judge it against security, cost, performance, and the need to reduce anomalies while preserving required queries.",Evaluate,5
+Propose an original normalized schema based on normalization to address the case where customer and order data contain repeated values and update anomalies. Show how the proposal will reduce anomalies while preserving required queries.,Create,6
+State the primary purpose of SQL joins and aggregation.,Remember,1
+Give an example that illustrates SQL joins and aggregation in the situation where management needs sales totals by customer and region.,Understand,2
+Demonstrate how SQL joins and aggregation would be used to produce a SQL query for the case where management needs sales totals by customer and region.,Apply,3
+"Examine the causes and effects in the case where management needs sales totals by customer and region, focusing on SQL joins and aggregation.",Analyze,4
+Assess the risks and benefits of choosing SQL joins and aggregation instead of combining tables manually in a spreadsheet for the case where management needs sales totals by customer and region.,Evaluate,5
+"Develop a complete SQL query using SQL joins and aggregation for the case where management needs sales totals by customer and region, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with transactions and ACID properties.,Remember,1
+Explain why transactions and ACID properties can help to preserve consistency during failures.,Understand,2
+"Configure or implement transactions and ACID properties for a system in which a bank transfer debits one account before a failure occurs, so that it can preserve consistency during failures.",Apply,3
+"Trace the system behavior when a bank transfer debits one account before a failure occurs, and identify which part of transactions and ACID properties prevents it from preserve consistency during failures.",Analyze,4
+Recommend whether transactions and ACID properties should be adopted when a bank transfer debits one account before a failure occurs. Defend the recommendation using explicit criteria and the goal to preserve consistency during failures.,Evaluate,5
+Construct a prototype specification for a transaction design that applies transactions and ACID properties when a bank transfer debits one account before a failure occurs and is intended to preserve consistency during failures.,Create,6
+What is meant by the term database indexing?,Remember,1
+Describe in your own words how database indexing works when a report query scans millions of rows.,Understand,2
+Replace adding indexes to every column with an appropriate use of database indexing in the situation where a report query scans millions of rows. What would you do?,Apply,3
+Compare the consequences of using database indexing and adding indexes to every column in the situation where a report query scans millions of rows.,Analyze,4
+"Review a proposed indexing strategy based on database indexing for the situation where a report query scans millions of rows. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new indexing strategy that combines database indexing with an improvement over adding indexes to every column for the situation where a report query scans millions of rows.,Create,6
+Identify one common use of relational and NoSQL databases.,Remember,1
+Explain the relationship between relational and NoSQL databases and forcing every event into a rigid relational schema.,Understand,2
+"Apply the rules of relational and NoSQL databases to the case where an application stores rapidly changing semi-structured events, and determine the next action needed to support scale, query needs, and evolving structure.",Apply,3
+"Categorize the technical factors involved when an application stores rapidly changing semi-structured events, and show how they relate to relational and NoSQL databases.",Analyze,4
+"Prioritize relational and NoSQL databases and forcing every event into a rigid relational schema for the situation where an application stores rapidly changing semi-structured events, and justify the order according to how well each can support scale, query needs, and evolving structure.",Evaluate,5
+"Create an implementation and evaluation plan for a database selection proposal using relational and NoSQL databases, given that an application stores rapidly changing semi-structured events and the solution must support scale, query needs, and evolving structure.",Create,6
+Define processes and threads.,Remember,1
+Explain how processes and threads is relevant when a server handles many concurrent client requests.,Understand,2
+"When a server handles many concurrent client requests, how would you apply processes and threads to use resources efficiently while isolating failures? State the concrete steps.",Apply,3
+Analyze the situation in which a server handles many concurrent client requests. What evidence would show that processes and threads is a major factor?,Analyze,4
+Evaluate whether processes and threads or starting a heavyweight process for every small task is more suitable when a server handles many concurrent client requests. Justify which better supports the goal to use resources efficiently while isolating failures.,Evaluate,5
+Design a concurrency model that uses processes and threads for the situation where a server handles many concurrent client requests and must use resources efficiently while isolating failures. Include its main components and decisions.,Create,6
+List two standard characteristics of CPU scheduling.,Remember,1
+Summarize the main difference between CPU scheduling and using one non-preemptive queue.,Understand,2
+Use CPU scheduling to solve this practical problem: interactive jobs wait behind long batch jobs. Show how the solution would improve response time without starving jobs.,Apply,3
+"Break down the problem where interactive jobs wait behind long batch jobs, and distinguish the role of CPU scheduling from using one non-preemptive queue.",Analyze,4
+"Critique a proposal to use CPU scheduling when interactive jobs wait behind long batch jobs. Judge it against security, cost, performance, and the need to improve response time without starving jobs.",Evaluate,5
+Propose an original scheduling policy based on CPU scheduling to address the case where interactive jobs wait behind long batch jobs. Show how the proposal will improve response time without starving jobs.,Create,6
+State the primary purpose of virtual memory and paging.,Remember,1
+Give an example that illustrates virtual memory and paging in the situation where a program's working set exceeds physical memory.,Understand,2
+Demonstrate how virtual memory and paging would be used to produce a memory-management explanation for the case where a program's working set exceeds physical memory.,Apply,3
+"Examine the causes and effects in the case where a program's working set exceeds physical memory, focusing on virtual memory and paging.",Analyze,4
+Assess the risks and benefits of choosing virtual memory and paging instead of disabling memory protection for the case where a program's working set exceeds physical memory.,Evaluate,5
+"Develop a complete memory-management explanation using virtual memory and paging for the case where a program's working set exceeds physical memory, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with deadlocks.,Remember,1
+Explain why deadlocks can help to ensure progress under concurrent access.,Understand,2
+"Configure or implement deadlocks for a system in which two services each hold one resource while waiting for the other, so that it can ensure progress under concurrent access.",Apply,3
+"Trace the system behavior when two services each hold one resource while waiting for the other, and identify which part of deadlocks prevents it from ensure progress under concurrent access.",Analyze,4
+Recommend whether deadlocks should be adopted when two services each hold one resource while waiting for the other. Defend the recommendation using explicit criteria and the goal to ensure progress under concurrent access.,Evaluate,5
+Construct a prototype specification for a deadlock-prevention plan that applies deadlocks when two services each hold one resource while waiting for the other and is intended to ensure progress under concurrent access.,Create,6
+What is meant by the term file systems?,Remember,1
+Describe in your own words how file systems works when a shared storage volume must survive crashes and permission errors.,Understand,2
+Replace using an unprotected flat byte store with an appropriate use of file systems in the situation where a shared storage volume must survive crashes and permission errors. What would you do?,Apply,3
+Compare the consequences of using file systems and using an unprotected flat byte store in the situation where a shared storage volume must survive crashes and permission errors.,Analyze,4
+"Review a proposed file-system configuration based on file systems for the situation where a shared storage volume must survive crashes and permission errors. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new file-system configuration that combines file systems with an improvement over using an unprotected flat byte store for the situation where a shared storage volume must survive crashes and permission errors.,Create,6
+Identify one common use of synchronization.,Remember,1
+Explain the relationship between synchronization and adding arbitrary delays.,Understand,2
+"Apply the rules of synchronization to the case where several threads update the same counter and lose increments, and determine the next action needed to prevent races with minimal contention.",Apply,3
+"Categorize the technical factors involved when several threads update the same counter and lose increments, and show how they relate to synchronization.",Analyze,4
+"Prioritize synchronization and adding arbitrary delays for the situation where several threads update the same counter and lose increments, and justify the order according to how well each can prevent races with minimal contention.",Evaluate,5
+"Create an implementation and evaluation plan for a synchronization solution using synchronization, given that several threads update the same counter and lose increments and the solution must prevent races with minimal contention.",Create,6
+Define OSI and TCP/IP models.,Remember,1
+Explain how OSI and TCP/IP models is relevant when a team troubleshoots a failed web connection.,Understand,2
+"When a team troubleshoots a failed web connection, how would you apply OSI and TCP/IP models to locate the fault systematically? State the concrete steps.",Apply,3
+Analyze the situation in which a team troubleshoots a failed web connection. What evidence would show that OSI and TCP/IP models is a major factor?,Analyze,4
+Evaluate whether OSI and TCP/IP models or treating every failure as an application bug is more suitable when a team troubleshoots a failed web connection. Justify which better supports the goal to locate the fault systematically.,Evaluate,5
+Design a layered troubleshooting guide that uses OSI and TCP/IP models for the situation where a team troubleshoots a failed web connection and must locate the fault systematically. Include its main components and decisions.,Create,6
+List two standard characteristics of IP addressing and subnetting.,Remember,1
+Summarize the main difference between IP addressing and subnetting and placing every device in one oversized subnet.,Understand,2
+Use IP addressing and subnetting to solve this practical problem: a company must divide an address block among four departments. Show how the solution would allocate addresses efficiently and limit broadcasts.,Apply,3
+"Break down the problem where a company must divide an address block among four departments, and distinguish the role of IP addressing and subnetting from placing every device in one oversized subnet.",Analyze,4
+"Critique a proposal to use IP addressing and subnetting when a company must divide an address block among four departments. Judge it against security, cost, performance, and the need to allocate addresses efficiently and limit broadcasts.",Evaluate,5
+Propose an original subnet plan based on IP addressing and subnetting to address the case where a company must divide an address block among four departments. Show how the proposal will allocate addresses efficiently and limit broadcasts.,Create,6
+State the primary purpose of routing.,Remember,1
+Give an example that illustrates routing in the situation where two branch offices require resilient paths to headquarters.,Understand,2
+Demonstrate how routing would be used to produce a routing design for the case where two branch offices require resilient paths to headquarters.,Apply,3
+"Examine the causes and effects in the case where two branch offices require resilient paths to headquarters, focusing on routing.",Analyze,4
+Assess the risks and benefits of choosing routing instead of using one static path with no backup for the case where two branch offices require resilient paths to headquarters.,Evaluate,5
+"Develop a complete routing design using routing for the case where two branch offices require resilient paths to headquarters, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with switching and VLANs.,Remember,1
+Explain why switching and VLANs can help to separate traffic while allowing controlled services.,Understand,2
+"Configure or implement switching and VLANs for a system in which finance and guest devices share the same local network, so that it can separate traffic while allowing controlled services.",Apply,3
+"Trace the system behavior when finance and guest devices share the same local network, and identify which part of switching and VLANs prevents it from separate traffic while allowing controlled services.",Analyze,4
+Recommend whether switching and VLANs should be adopted when finance and guest devices share the same local network. Defend the recommendation using explicit criteria and the goal to separate traffic while allowing controlled services.,Evaluate,5
+Construct a prototype specification for a VLAN design that applies switching and VLANs when finance and guest devices share the same local network and is intended to separate traffic while allowing controlled services.,Create,6
+What is meant by the term DNS and DHCP?,Remember,1
+Describe in your own words how DNS and DHCP works when users can reach servers by IP address but not by name.,Understand,2
+Replace manually editing every host file with an appropriate use of DNS and DHCP in the situation where users can reach servers by IP address but not by name. What would you do?,Apply,3
+Compare the consequences of using DNS and DHCP and manually editing every host file in the situation where users can reach servers by IP address but not by name.,Analyze,4
+"Review a proposed service troubleshooting plan based on DNS and DHCP for the situation where users can reach servers by IP address but not by name. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new service troubleshooting plan that combines DNS and DHCP with an improvement over manually editing every host file for the situation where users can reach servers by IP address but not by name.,Create,6
+Identify one common use of TCP and UDP.,Remember,1
+Explain the relationship between TCP and UDP and using one transport protocol for every message.,Understand,2
+"Apply the rules of TCP and UDP to the case where an application carries live voice and financial records, and determine the next action needed to balance timeliness and reliable delivery.",Apply,3
+"Categorize the technical factors involved when an application carries live voice and financial records, and show how they relate to TCP and UDP.",Analyze,4
+"Prioritize TCP and UDP and using one transport protocol for every message for the situation where an application carries live voice and financial records, and justify the order according to how well each can balance timeliness and reliable delivery.",Evaluate,5
+"Create an implementation and evaluation plan for a transport-protocol selection using TCP and UDP, given that an application carries live voice and financial records and the solution must balance timeliness and reliable delivery.",Create,6
+"Define confidentiality, integrity, and availability.",Remember,1
+"Explain how confidentiality, integrity, and availability is relevant when a hospital is prioritizing controls for patient systems.",Understand,2
+"When a hospital is prioritizing controls for patient systems, how would you apply confidentiality, integrity, and availability to balance privacy, correctness, and service uptime? State the concrete steps.",Apply,3
+"Analyze the situation in which a hospital is prioritizing controls for patient systems. What evidence would show that confidentiality, integrity, and availability is a major factor?",Analyze,4
+"Evaluate whether confidentiality, integrity, and availability or treating confidentiality as the only objective is more suitable when a hospital is prioritizing controls for patient systems. Justify which better supports the goal to balance privacy, correctness, and service uptime.",Evaluate,5
+"Design a security control plan that uses confidentiality, integrity, and availability for the situation where a hospital is prioritizing controls for patient systems and must balance privacy, correctness, and service uptime. Include its main components and decisions.",Create,6
+List two standard characteristics of authentication and access control.,Remember,1
+Summarize the main difference between authentication and access control and sharing one administrator account.,Understand,2
+Use authentication and access control to solve this practical problem: former contractors can still open internal resources. Show how the solution would enforce least privilege and timely revocation.,Apply,3
+"Break down the problem where former contractors can still open internal resources, and distinguish the role of authentication and access control from sharing one administrator account.",Analyze,4
+"Critique a proposal to use authentication and access control when former contractors can still open internal resources. Judge it against security, cost, performance, and the need to enforce least privilege and timely revocation.",Evaluate,5
+Propose an original identity and access policy based on authentication and access control to address the case where former contractors can still open internal resources. Show how the proposal will enforce least privilege and timely revocation.,Create,6
+State the primary purpose of cryptography and key management.,Remember,1
+Give an example that illustrates cryptography and key management in the situation where an application protects stored records and network traffic.,Understand,2
+Demonstrate how cryptography and key management would be used to produce a cryptographic design for the case where an application protects stored records and network traffic.,Apply,3
+"Examine the causes and effects in the case where an application protects stored records and network traffic, focusing on cryptography and key management.",Analyze,4
+Assess the risks and benefits of choosing cryptography and key management instead of hard-coding one key in source code for the case where an application protects stored records and network traffic.,Evaluate,5
+"Develop a complete cryptographic design using cryptography and key management for the case where an application protects stored records and network traffic, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with web application vulnerabilities.,Remember,1
+Explain why web application vulnerabilities can help to prevent injection without breaking valid input.,Understand,2
+"Configure or implement web application vulnerabilities for a system in which a search form builds a database query from raw input, so that it can prevent injection without breaking valid input.",Apply,3
+"Trace the system behavior when a search form builds a database query from raw input, and identify which part of web application vulnerabilities prevents it from prevent injection without breaking valid input.",Analyze,4
+Recommend whether web application vulnerabilities should be adopted when a search form builds a database query from raw input. Defend the recommendation using explicit criteria and the goal to prevent injection without breaking valid input.,Evaluate,5
+Construct a prototype specification for a secure input-handling design that applies web application vulnerabilities when a search form builds a database query from raw input and is intended to prevent injection without breaking valid input.,Create,6
+What is meant by the term incident response?,Remember,1
+Describe in your own words how incident response works when monitoring detects unusual data transfer from an employee account.,Understand,2
+Replace immediately deleting all logs with an appropriate use of incident response in the situation where monitoring detects unusual data transfer from an employee account. What would you do?,Apply,3
+Compare the consequences of using incident response and immediately deleting all logs in the situation where monitoring detects unusual data transfer from an employee account.,Analyze,4
+"Review a proposed incident-response playbook based on incident response for the situation where monitoring detects unusual data transfer from an employee account. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new incident-response playbook that combines incident response with an improvement over immediately deleting all logs for the situation where monitoring detects unusual data transfer from an employee account.,Create,6
+Identify one common use of risk assessment.,Remember,1
+Explain the relationship between risk assessment and fixing issues only by discovery order.,Understand,2
+"Apply the rules of risk assessment to the case where a small company must prioritize many security weaknesses, and determine the next action needed to focus resources on likelihood and impact.",Apply,3
+"Categorize the technical factors involved when a small company must prioritize many security weaknesses, and show how they relate to risk assessment.",Analyze,4
+"Prioritize risk assessment and fixing issues only by discovery order for the situation where a small company must prioritize many security weaknesses, and justify the order according to how well each can focus resources on likelihood and impact.",Evaluate,5
+"Create an implementation and evaluation plan for a risk treatment plan using risk assessment, given that a small company must prioritize many security weaknesses and the solution must focus resources on likelihood and impact.",Create,6
+Define requirements engineering.,Remember,1
+Explain how requirements engineering is relevant when stakeholders use conflicting descriptions of a booking system.,Understand,2
+"When stakeholders use conflicting descriptions of a booking system, how would you apply requirements engineering to make needs testable and agreed? State the concrete steps.",Apply,3
+Analyze the situation in which stakeholders use conflicting descriptions of a booking system. What evidence would show that requirements engineering is a major factor?,Analyze,4
+Evaluate whether requirements engineering or starting implementation from assumptions is more suitable when stakeholders use conflicting descriptions of a booking system. Justify which better supports the goal to make needs testable and agreed.,Evaluate,5
+Design a requirements specification that uses requirements engineering for the situation where stakeholders use conflicting descriptions of a booking system and must make needs testable and agreed. Include its main components and decisions.,Create,6
+List two standard characteristics of UML and system modeling.,Remember,1
+Summarize the main difference between UML and system modeling and using only informal verbal descriptions.,Understand,2
+Use UML and system modeling to solve this practical problem: a team needs to communicate component interactions. Show how the solution would show structure and behavior clearly.,Apply,3
+"Break down the problem where a team needs to communicate component interactions, and distinguish the role of UML and system modeling from using only informal verbal descriptions.",Analyze,4
+"Critique a proposal to use UML and system modeling when a team needs to communicate component interactions. Judge it against security, cost, performance, and the need to show structure and behavior clearly.",Evaluate,5
+Propose an original system model based on UML and system modeling to address the case where a team needs to communicate component interactions. Show how the proposal will show structure and behavior clearly.,Create,6
+State the primary purpose of software architecture.,Remember,1
+Give an example that illustrates software architecture in the situation where an online platform must scale and remain maintainable.,Understand,2
+Demonstrate how software architecture would be used to produce a architecture proposal for the case where an online platform must scale and remain maintainable.,Apply,3
+"Examine the causes and effects in the case where an online platform must scale and remain maintainable, focusing on software architecture.",Analyze,4
+Assess the risks and benefits of choosing software architecture instead of putting all features in one tightly coupled module for the case where an online platform must scale and remain maintainable.,Evaluate,5
+"Develop a complete architecture proposal using software architecture for the case where an online platform must scale and remain maintainable, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with version control.,Remember,1
+Explain why version control can help to preserve history and integrate work safely.,Understand,2
+"Configure or implement version control for a system in which developers overwrite each other's changes, so that it can preserve history and integrate work safely.",Apply,3
+"Trace the system behavior when developers overwrite each other's changes, and identify which part of version control prevents it from preserve history and integrate work safely.",Analyze,4
+Recommend whether version control should be adopted when developers overwrite each other's changes. Defend the recommendation using explicit criteria and the goal to preserve history and integrate work safely.,Evaluate,5
+Construct a prototype specification for a branching and merge workflow that applies version control when developers overwrite each other's changes and is intended to preserve history and integrate work safely.,Create,6
+What is meant by the term maintenance and refactoring?,Remember,1
+Describe in your own words how maintenance and refactoring works when a legacy module works but is difficult to change.,Understand,2
+Replace rewriting it without tests with an appropriate use of maintenance and refactoring in the situation where a legacy module works but is difficult to change. What would you do?,Apply,3
+Compare the consequences of using maintenance and refactoring and rewriting it without tests in the situation where a legacy module works but is difficult to change.,Analyze,4
+"Review a proposed incremental refactoring plan based on maintenance and refactoring for the situation where a legacy module works but is difficult to change. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new incremental refactoring plan that combines maintenance and refactoring with an improvement over rewriting it without tests for the situation where a legacy module works but is difficult to change.,Create,6
+Identify one common use of Agile development.,Remember,1
+Explain the relationship between Agile development and freezing all feedback until project completion.,Understand,2
+"Apply the rules of Agile development to the case where requirements change during a short product release, and determine the next action needed to deliver value and adapt transparently.",Apply,3
+"Categorize the technical factors involved when requirements change during a short product release, and show how they relate to Agile development.",Analyze,4
+"Prioritize Agile development and freezing all feedback until project completion for the situation where requirements change during a short product release, and justify the order according to how well each can deliver value and adapt transparently.",Evaluate,5
+"Create an implementation and evaluation plan for a iteration plan using Agile development, given that requirements change during a short product release and the solution must deliver value and adapt transparently.",Create,6
+"Define unit, integration, and system testing.",Remember,1
+"Explain how unit, integration, and system testing is relevant when a payment feature passes unit tests but fails with the order service.",Understand,2
+"When a payment feature passes unit tests but fails with the order service, how would you apply unit, integration, and system testing to detect failures at appropriate boundaries? State the concrete steps.",Apply,3
+"Analyze the situation in which a payment feature passes unit tests but fails with the order service. What evidence would show that unit, integration, and system testing is a major factor?",Analyze,4
+"Evaluate whether unit, integration, and system testing or adding more isolated unit tests only is more suitable when a payment feature passes unit tests but fails with the order service. Justify which better supports the goal to detect failures at appropriate boundaries.",Evaluate,5
+"Design a test-level strategy that uses unit, integration, and system testing for the situation where a payment feature passes unit tests but fails with the order service and must detect failures at appropriate boundaries. Include its main components and decisions.",Create,6
+List two standard characteristics of equivalence partitioning and boundary-value analysis.,Remember,1
+Summarize the main difference between equivalence partitioning and boundary-value analysis and testing one random valid value.,Understand,2
+"Use equivalence partitioning and boundary-value analysis to solve this practical problem: an age field accepts values from 18 through 65. Show how the solution would cover valid, invalid, and boundary behavior efficiently.",Apply,3
+"Break down the problem where an age field accepts values from 18 through 65, and distinguish the role of equivalence partitioning and boundary-value analysis from testing one random valid value.",Analyze,4
+"Critique a proposal to use equivalence partitioning and boundary-value analysis when an age field accepts values from 18 through 65. Judge it against security, cost, performance, and the need to cover valid, invalid, and boundary behavior efficiently.",Evaluate,5
+"Propose an original test-case set based on equivalence partitioning and boundary-value analysis to address the case where an age field accepts values from 18 through 65. Show how the proposal will cover valid, invalid, and boundary behavior efficiently.",Create,6
+State the primary purpose of test automation.,Remember,1
+Give an example that illustrates test automation in the situation where a stable regression suite takes two days to execute manually.,Understand,2
+Demonstrate how test automation would be used to produce a automation plan for the case where a stable regression suite takes two days to execute manually.,Apply,3
+"Examine the causes and effects in the case where a stable regression suite takes two days to execute manually, focusing on test automation.",Analyze,4
+Assess the risks and benefits of choosing test automation instead of automating every test including unstable visual checks for the case where a stable regression suite takes two days to execute manually.,Evaluate,5
+"Develop a complete automation plan using test automation for the case where a stable regression suite takes two days to execute manually, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with performance testing.,Remember,1
+Explain why performance testing can help to identify capacity and bottlenecks under realistic load.,Understand,2
+"Configure or implement performance testing for a system in which response time rises sharply during registration deadlines, so that it can identify capacity and bottlenecks under realistic load.",Apply,3
+"Trace the system behavior when response time rises sharply during registration deadlines, and identify which part of performance testing prevents it from identify capacity and bottlenecks under realistic load.",Analyze,4
+Recommend whether performance testing should be adopted when response time rises sharply during registration deadlines. Defend the recommendation using explicit criteria and the goal to identify capacity and bottlenecks under realistic load.,Evaluate,5
+Construct a prototype specification for a performance-test design that applies performance testing when response time rises sharply during registration deadlines and is intended to identify capacity and bottlenecks under realistic load.,Create,6
+What is meant by the term security testing?,Remember,1
+Describe in your own words how security testing works when a public API handles sensitive user records.,Understand,2
+Replace testing only functional happy paths with an appropriate use of security testing in the situation where a public API handles sensitive user records. What would you do?,Apply,3
+Compare the consequences of using security testing and testing only functional happy paths in the situation where a public API handles sensitive user records.,Analyze,4
+"Review a proposed security test plan based on security testing for the situation where a public API handles sensitive user records. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new security test plan that combines security testing with an improvement over testing only functional happy paths for the situation where a public API handles sensitive user records.,Create,6
+Identify one common use of defect lifecycle and reporting.,Remember,1
+Explain the relationship between defect lifecycle and reporting and recording only the defect title.,Understand,2
+"Apply the rules of defect lifecycle and reporting to the case where developers cannot reproduce defects from vague reports, and determine the next action needed to support prioritization and reliable reproduction.",Apply,3
+"Categorize the technical factors involved when developers cannot reproduce defects from vague reports, and show how they relate to defect lifecycle and reporting.",Analyze,4
+"Prioritize defect lifecycle and reporting and recording only the defect title for the situation where developers cannot reproduce defects from vague reports, and justify the order according to how well each can support prioritization and reliable reproduction.",Evaluate,5
+"Create an implementation and evaluation plan for a defect-reporting standard using defect lifecycle and reporting, given that developers cannot reproduce defects from vague reports and the solution must support prioritization and reliable reproduction.",Create,6
+Define HTTP and REST APIs.,Remember,1
+Explain how HTTP and REST APIs is relevant when a client retries an update after a network timeout.,Understand,2
+"When a client retries an update after a network timeout, how would you apply HTTP and REST APIs to handle retries and status responses predictably? State the concrete steps.",Apply,3
+Analyze the situation in which a client retries an update after a network timeout. What evidence would show that HTTP and REST APIs is a major factor?,Analyze,4
+Evaluate whether HTTP and REST APIs or using unsafe methods without idempotency planning is more suitable when a client retries an update after a network timeout. Justify which better supports the goal to handle retries and status responses predictably.,Evaluate,5
+Design a API contract that uses HTTP and REST APIs for the situation where a client retries an update after a network timeout and must handle retries and status responses predictably. Include its main components and decisions.,Create,6
+"List two standard characteristics of semantic HTML, CSS, and accessibility.",Remember,1
+"Summarize the main difference between semantic HTML, CSS, and accessibility and fixing the appearance with non-semantic elements only.",Understand,2
+"Use semantic HTML, CSS, and accessibility to solve this practical problem: a government form is difficult to use with a keyboard. Show how the solution would support assistive technology and responsive layout.",Apply,3
+"Break down the problem where a government form is difficult to use with a keyboard, and distinguish the role of semantic HTML, CSS, and accessibility from fixing the appearance with non-semantic elements only.",Analyze,4
+"Critique a proposal to use semantic HTML, CSS, and accessibility when a government form is difficult to use with a keyboard. Judge it against security, cost, performance, and the need to support assistive technology and responsive layout.",Evaluate,5
+"Propose an original accessible page specification based on semantic HTML, CSS, and accessibility to address the case where a government form is difficult to use with a keyboard. Show how the proposal will support assistive technology and responsive layout.",Create,6
+State the primary purpose of JavaScript and browser behavior.,Remember,1
+Give an example that illustrates JavaScript and browser behavior in the situation where a page freezes while processing a large dataset.,Understand,2
+Demonstrate how JavaScript and browser behavior would be used to produce a browser-side processing design for the case where a page freezes while processing a large dataset.,Apply,3
+"Examine the causes and effects in the case where a page freezes while processing a large dataset, focusing on JavaScript and browser behavior.",Analyze,4
+Assess the risks and benefits of choosing JavaScript and browser behavior instead of running all work synchronously on the main thread for the case where a page freezes while processing a large dataset.,Evaluate,5
+"Develop a complete browser-side processing design using JavaScript and browser behavior for the case where a page freezes while processing a large dataset, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with server-side application design.,Remember,1
+Explain why server-side application design can help to improve testability and separation of concerns.,Understand,2
+"Configure or implement server-side application design for a system in which an API mixes validation, business logic, and database code, so that it can improve testability and separation of concerns.",Apply,3
+"Trace the system behavior when an API mixes validation, business logic, and database code, and identify which part of server-side application design prevents it from improve testability and separation of concerns.",Analyze,4
+"Recommend whether server-side application design should be adopted when an API mixes validation, business logic, and database code. Defend the recommendation using explicit criteria and the goal to improve testability and separation of concerns.",Evaluate,5
+"Construct a prototype specification for a layered backend design that applies server-side application design when an API mixes validation, business logic, and database code and is intended to improve testability and separation of concerns.",Create,6
+What is meant by the term authentication and session management?,Remember,1
+Describe in your own words how authentication and session management works when users remain signed in on a stolen device.,Understand,2
+Replace storing permanent session tokens in insecure storage with an appropriate use of authentication and session management in the situation where users remain signed in on a stolen device. What would you do?,Apply,3
+Compare the consequences of using authentication and session management and storing permanent session tokens in insecure storage in the situation where users remain signed in on a stolen device.,Analyze,4
+"Review a proposed session security design based on authentication and session management for the situation where users remain signed in on a stolen device. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new session security design that combines authentication and session management with an improvement over storing permanent session tokens in insecure storage for the situation where users remain signed in on a stolen device.,Create,6
+Identify one common use of web performance.,Remember,1
+Explain the relationship between web performance and adding larger uncompressed media.,Understand,2
+"Apply the rules of web performance to the case where a mobile landing page loads slowly over a weak connection, and determine the next action needed to reduce load time without losing essential content.",Apply,3
+"Categorize the technical factors involved when a mobile landing page loads slowly over a weak connection, and show how they relate to web performance.",Analyze,4
+"Prioritize web performance and adding larger uncompressed media for the situation where a mobile landing page loads slowly over a weak connection, and justify the order according to how well each can reduce load time without losing essential content.",Evaluate,5
+"Create an implementation and evaluation plan for a performance optimization plan using web performance, given that a mobile landing page loads slowly over a weak connection and the solution must reduce load time without losing essential content.",Create,6
+Define application lifecycle.,Remember,1
+Explain how application lifecycle is relevant when a mobile app loses unsaved state when rotated or backgrounded.,Understand,2
+"When a mobile app loses unsaved state when rotated or backgrounded, how would you apply application lifecycle to restore the user task correctly? State the concrete steps.",Apply,3
+Analyze the situation in which a mobile app loses unsaved state when rotated or backgrounded. What evidence would show that application lifecycle is a major factor?,Analyze,4
+Evaluate whether application lifecycle or assuming the process always remains alive is more suitable when a mobile app loses unsaved state when rotated or backgrounded. Justify which better supports the goal to restore the user task correctly.,Evaluate,5
+Design a state-management design that uses application lifecycle for the situation where a mobile app loses unsaved state when rotated or backgrounded and must restore the user task correctly. Include its main components and decisions.,Create,6
+List two standard characteristics of responsive mobile layouts.,Remember,1
+Summarize the main difference between responsive mobile layouts and using fixed pixel positions.,Understand,2
+Use responsive mobile layouts to solve this practical problem: one screen must work on phones and tablets. Show how the solution would remain usable across sizes and orientations.,Apply,3
+"Break down the problem where one screen must work on phones and tablets, and distinguish the role of responsive mobile layouts from using fixed pixel positions.",Analyze,4
+"Critique a proposal to use responsive mobile layouts when one screen must work on phones and tablets. Judge it against security, cost, performance, and the need to remain usable across sizes and orientations.",Evaluate,5
+Propose an original adaptive layout based on responsive mobile layouts to address the case where one screen must work on phones and tablets. Show how the proposal will remain usable across sizes and orientations.,Create,6
+State the primary purpose of local data storage.,Remember,1
+Give an example that illustrates local data storage in the situation where an app must work offline with sensitive cached records.,Understand,2
+Demonstrate how local data storage would be used to produce a offline storage design for the case where an app must work offline with sensitive cached records.,Apply,3
+"Examine the causes and effects in the case where an app must work offline with sensitive cached records, focusing on local data storage.",Analyze,4
+Assess the risks and benefits of choosing local data storage instead of storing everything as plain text for the case where an app must work offline with sensitive cached records.,Evaluate,5
+"Develop a complete offline storage design using local data storage for the case where an app must work offline with sensitive cached records, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with push notifications.,Remember,1
+"Explain why push notifications can help to deliver timely, targeted, non-duplicated messages.",Understand,2
+"Configure or implement push notifications for a system in which users receive duplicate and irrelevant alerts, so that it can deliver timely, targeted, non-duplicated messages.",Apply,3
+"Trace the system behavior when users receive duplicate and irrelevant alerts, and identify which part of push notifications prevents it from deliver timely, targeted, non-duplicated messages.",Analyze,4
+"Recommend whether push notifications should be adopted when users receive duplicate and irrelevant alerts. Defend the recommendation using explicit criteria and the goal to deliver timely, targeted, non-duplicated messages.",Evaluate,5
+"Construct a prototype specification for a notification strategy that applies push notifications when users receive duplicate and irrelevant alerts and is intended to deliver timely, targeted, non-duplicated messages.",Create,6
+What is meant by the term permissions and privacy?,Remember,1
+Describe in your own words how permissions and privacy works when a flashlight feature requests contacts and location.,Understand,2
+Replace requesting all permissions at installation with an appropriate use of permissions and privacy in the situation where a flashlight feature requests contacts and location. What would you do?,Apply,3
+Compare the consequences of using permissions and privacy and requesting all permissions at installation in the situation where a flashlight feature requests contacts and location.,Analyze,4
+"Review a proposed permission policy based on permissions and privacy for the situation where a flashlight feature requests contacts and location. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new permission policy that combines permissions and privacy with an improvement over requesting all permissions at installation for the situation where a flashlight feature requests contacts and location.,Create,6
+Identify one common use of native and cross-platform development.,Remember,1
+Explain the relationship between native and cross-platform development and choosing a framework only by popularity.,Understand,2
+"Apply the rules of native and cross-platform development to the case where a small team targets Android and iOS with hardware-specific features, and determine the next action needed to balance reuse, performance, and device access.",Apply,3
+"Categorize the technical factors involved when a small team targets Android and iOS with hardware-specific features, and show how they relate to native and cross-platform development.",Analyze,4
+"Prioritize native and cross-platform development and choosing a framework only by popularity for the situation where a small team targets Android and iOS with hardware-specific features, and justify the order according to how well each can balance reuse, performance, and device access.",Evaluate,5
+"Create an implementation and evaluation plan for a platform strategy using native and cross-platform development, given that a small team targets Android and iOS with hardware-specific features and the solution must balance reuse, performance, and device access.",Create,6
+"Define IaaS, PaaS, and SaaS.",Remember,1
+"Explain how IaaS, PaaS, and SaaS is relevant when a startup wants to deploy quickly with a small operations team.",Understand,2
+"When a startup wants to deploy quickly with a small operations team, how would you apply IaaS, PaaS, and SaaS to balance management effort and flexibility? State the concrete steps.",Apply,3
+"Analyze the situation in which a startup wants to deploy quickly with a small operations team. What evidence would show that IaaS, PaaS, and SaaS is a major factor?",Analyze,4
+"Evaluate whether IaaS, PaaS, and SaaS or selecting a service model without considering control needs is more suitable when a startup wants to deploy quickly with a small operations team. Justify which better supports the goal to balance management effort and flexibility.",Evaluate,5
+"Design a cloud service-model recommendation that uses IaaS, PaaS, and SaaS for the situation where a startup wants to deploy quickly with a small operations team and must balance management effort and flexibility. Include its main components and decisions.",Create,6
+List two standard characteristics of cloud compute and storage.,Remember,1
+Summarize the main difference between cloud compute and storage and using one always-on server and local disk.,Understand,2
+Use cloud compute and storage to solve this practical problem: an analytics workload has bursty processing and durable data. Show how the solution would scale compute independently from persistent storage.,Apply,3
+"Break down the problem where an analytics workload has bursty processing and durable data, and distinguish the role of cloud compute and storage from using one always-on server and local disk.",Analyze,4
+"Critique a proposal to use cloud compute and storage when an analytics workload has bursty processing and durable data. Judge it against security, cost, performance, and the need to scale compute independently from persistent storage.",Evaluate,5
+Propose an original resource architecture based on cloud compute and storage to address the case where an analytics workload has bursty processing and durable data. Show how the proposal will scale compute independently from persistent storage.,Create,6
+State the primary purpose of elasticity and load balancing.,Remember,1
+Give an example that illustrates elasticity and load balancing in the situation where traffic increases tenfold during a ticket sale.,Understand,2
+Demonstrate how elasticity and load balancing would be used to produce a scaling design for the case where traffic increases tenfold during a ticket sale.,Apply,3
+"Examine the causes and effects in the case where traffic increases tenfold during a ticket sale, focusing on elasticity and load balancing.",Analyze,4
+Assess the risks and benefits of choosing elasticity and load balancing instead of sending all requests to one fixed instance for the case where traffic increases tenfold during a ticket sale.,Evaluate,5
+"Develop a complete scaling design using elasticity and load balancing for the case where traffic increases tenfold during a ticket sale, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with serverless computing.,Remember,1
+Explain why serverless computing can help to reduce idle cost while handling events.,Understand,2
+"Configure or implement serverless computing for a system in which an event-driven task runs briefly a few times per hour, so that it can reduce idle cost while handling events.",Apply,3
+"Trace the system behavior when an event-driven task runs briefly a few times per hour, and identify which part of serverless computing prevents it from reduce idle cost while handling events.",Analyze,4
+Recommend whether serverless computing should be adopted when an event-driven task runs briefly a few times per hour. Defend the recommendation using explicit criteria and the goal to reduce idle cost while handling events.,Evaluate,5
+Construct a prototype specification for a serverless solution that applies serverless computing when an event-driven task runs briefly a few times per hour and is intended to reduce idle cost while handling events.,Create,6
+What is meant by the term cloud identity and security?,Remember,1
+Describe in your own words how cloud identity and security works when several teams share broad administrator credentials.,Understand,2
+Replace granting account-wide access for convenience with an appropriate use of cloud identity and security in the situation where several teams share broad administrator credentials. What would you do?,Apply,3
+Compare the consequences of using cloud identity and security and granting account-wide access for convenience in the situation where several teams share broad administrator credentials.,Analyze,4
+"Review a proposed cloud IAM design based on cloud identity and security for the situation where several teams share broad administrator credentials. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new cloud IAM design that combines cloud identity and security with an improvement over granting account-wide access for convenience for the situation where several teams share broad administrator credentials.,Create,6
+Identify one common use of availability and cloud cost management.,Remember,1
+Explain the relationship between availability and cloud cost management and duplicating every component everywhere.,Understand,2
+"Apply the rules of availability and cloud cost management to the case where a service must survive regional failure within a fixed budget, and determine the next action needed to meet recovery targets economically.",Apply,3
+"Categorize the technical factors involved when a service must survive regional failure within a fixed budget, and show how they relate to availability and cloud cost management.",Analyze,4
+"Prioritize availability and cloud cost management and duplicating every component everywhere for the situation where a service must survive regional failure within a fixed budget, and justify the order according to how well each can meet recovery targets economically.",Evaluate,5
+"Create an implementation and evaluation plan for a resilience and cost plan using availability and cloud cost management, given that a service must survive regional failure within a fixed budget and the solution must meet recovery targets economically.",Create,6
+Define continuous integration.,Remember,1
+Explain how continuous integration is relevant when integration defects appear only at the end of each month.,Understand,2
+"When integration defects appear only at the end of each month, how would you apply continuous integration to detect integration problems quickly? State the concrete steps.",Apply,3
+Analyze the situation in which integration defects appear only at the end of each month. What evidence would show that continuous integration is a major factor?,Analyze,4
+Evaluate whether continuous integration or merging large changes without automated checks is more suitable when integration defects appear only at the end of each month. Justify which better supports the goal to detect integration problems quickly.,Evaluate,5
+Design a CI pipeline that uses continuous integration for the situation where integration defects appear only at the end of each month and must detect integration problems quickly. Include its main components and decisions.,Create,6
+List two standard characteristics of continuous delivery and deployment.,Remember,1
+Summarize the main difference between continuous delivery and deployment and copying files directly to production.,Understand,2
+"Use continuous delivery and deployment to solve this practical problem: releases are manual, slow, and inconsistent. Show how the solution would make releases repeatable and recoverable.",Apply,3
+"Break down the problem where releases are manual, slow, and inconsistent, and distinguish the role of continuous delivery and deployment from copying files directly to production.",Analyze,4
+"Critique a proposal to use continuous delivery and deployment when releases are manual, slow, and inconsistent. Judge it against security, cost, performance, and the need to make releases repeatable and recoverable.",Evaluate,5
+"Propose an original deployment pipeline based on continuous delivery and deployment to address the case where releases are manual, slow, and inconsistent. Show how the proposal will make releases repeatable and recoverable.",Create,6
+State the primary purpose of containers.,Remember,1
+Give an example that illustrates containers in the situation where an application behaves differently across developer machines.,Understand,2
+Demonstrate how containers would be used to produce a container specification for the case where an application behaves differently across developer machines.,Apply,3
+"Examine the causes and effects in the case where an application behaves differently across developer machines, focusing on containers.",Analyze,4
+Assess the risks and benefits of choosing containers instead of documenting manual setup steps only for the case where an application behaves differently across developer machines.,Evaluate,5
+"Develop a complete container specification using containers for the case where an application behaves differently across developer machines, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with infrastructure as code.,Remember,1
+Explain why infrastructure as code can help to reproduce reviewed environments.,Understand,2
+"Configure or implement infrastructure as code for a system in which test and production environments drift over time, so that it can reproduce reviewed environments.",Apply,3
+"Trace the system behavior when test and production environments drift over time, and identify which part of infrastructure as code prevents it from reproduce reviewed environments.",Analyze,4
+Recommend whether infrastructure as code should be adopted when test and production environments drift over time. Defend the recommendation using explicit criteria and the goal to reproduce reviewed environments.,Evaluate,5
+Construct a prototype specification for a infrastructure codebase that applies infrastructure as code when test and production environments drift over time and is intended to reproduce reviewed environments.,Create,6
+"What is meant by the term monitoring, logging, and alerting?",Remember,1
+"Describe in your own words how monitoring, logging, and alerting works when users report outages before the operations team notices.",Understand,2
+"Replace collecting logs without thresholds or ownership with an appropriate use of monitoring, logging, and alerting in the situation where users report outages before the operations team notices. What would you do?",Apply,3
+"Compare the consequences of using monitoring, logging, and alerting and collecting logs without thresholds or ownership in the situation where users report outages before the operations team notices.",Analyze,4
+"Review a proposed observability design based on monitoring, logging, and alerting for the situation where users report outages before the operations team notices. What should be accepted, rejected, or improved, and why?",Evaluate,5
+"Formulate a new observability design that combines monitoring, logging, and alerting with an improvement over collecting logs without thresholds or ownership for the situation where users report outages before the operations team notices.",Create,6
+Identify one common use of branching and release strategies.,Remember,1
+Explain the relationship between branching and release strategies and postponing integration until release day.,Understand,2
+"Apply the rules of branching and release strategies to the case where many long-lived branches cause painful merges, and determine the next action needed to support parallel work and frequent releases.",Apply,3
+"Categorize the technical factors involved when many long-lived branches cause painful merges, and show how they relate to branching and release strategies.",Analyze,4
+"Prioritize branching and release strategies and postponing integration until release day for the situation where many long-lived branches cause painful merges, and justify the order according to how well each can support parallel work and frequent releases.",Evaluate,5
+"Create an implementation and evaluation plan for a source-control workflow using branching and release strategies, given that many long-lived branches cause painful merges and the solution must support parallel work and frequent releases.",Create,6
+Define supervised learning.,Remember,1
+Explain how supervised learning is relevant when a company predicts customer churn from labeled history.,Understand,2
+"When a company predicts customer churn from labeled history, how would you apply supervised learning to learn a reliable mapping to the outcome? State the concrete steps.",Apply,3
+Analyze the situation in which a company predicts customer churn from labeled history. What evidence would show that supervised learning is a major factor?,Analyze,4
+Evaluate whether supervised learning or using an unsupervised method without defining the target is more suitable when a company predicts customer churn from labeled history. Justify which better supports the goal to learn a reliable mapping to the outcome.,Evaluate,5
+Design a modeling plan that uses supervised learning for the situation where a company predicts customer churn from labeled history and must learn a reliable mapping to the outcome. Include its main components and decisions.,Create,6
+List two standard characteristics of data preprocessing and feature engineering.,Remember,1
+Summarize the main difference between data preprocessing and feature engineering and feeding raw values directly into every algorithm.,Understand,2
+"Use data preprocessing and feature engineering to solve this practical problem: a dataset contains missing values, mixed scales, and category fields. Show how the solution would produce consistent informative inputs.",Apply,3
+"Break down the problem where a dataset contains missing values, mixed scales, and category fields, and distinguish the role of data preprocessing and feature engineering from feeding raw values directly into every algorithm.",Analyze,4
+"Critique a proposal to use data preprocessing and feature engineering when a dataset contains missing values, mixed scales, and category fields. Judge it against security, cost, performance, and the need to produce consistent informative inputs.",Evaluate,5
+"Propose an original preprocessing pipeline based on data preprocessing and feature engineering to address the case where a dataset contains missing values, mixed scales, and category fields. Show how the proposal will produce consistent informative inputs.",Create,6
+State the primary purpose of classification evaluation metrics.,Remember,1
+Give an example that illustrates classification evaluation metrics in the situation where fraud cases are rare but costly to miss.,Understand,2
+Demonstrate how classification evaluation metrics would be used to produce a evaluation framework for the case where fraud cases are rare but costly to miss.,Apply,3
+"Examine the causes and effects in the case where fraud cases are rare but costly to miss, focusing on classification evaluation metrics.",Analyze,4
+Assess the risks and benefits of choosing classification evaluation metrics instead of selecting a model by accuracy alone for the case where fraud cases are rare but costly to miss.,Evaluate,5
+"Develop a complete evaluation framework using classification evaluation metrics for the case where fraud cases are rare but costly to miss, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with neural networks.,Remember,1
+Explain why neural networks can help to learn useful features while controlling overfitting.,Understand,2
+"Configure or implement neural networks for a system in which an image task requires learning complex nonlinear patterns, so that it can learn useful features while controlling overfitting.",Apply,3
+"Trace the system behavior when an image task requires learning complex nonlinear patterns, and identify which part of neural networks prevents it from learn useful features while controlling overfitting.",Analyze,4
+Recommend whether neural networks should be adopted when an image task requires learning complex nonlinear patterns. Defend the recommendation using explicit criteria and the goal to learn useful features while controlling overfitting.,Evaluate,5
+Construct a prototype specification for a neural model design that applies neural networks when an image task requires learning complex nonlinear patterns and is intended to learn useful features while controlling overfitting.,Create,6
+What is meant by the term natural language processing?,Remember,1
+Describe in your own words how natural language processing works when a help desk must classify multilingual ticket text.,Understand,2
+Replace matching only a short English keyword list with an appropriate use of natural language processing in the situation where a help desk must classify multilingual ticket text. What would you do?,Apply,3
+Compare the consequences of using natural language processing and matching only a short English keyword list in the situation where a help desk must classify multilingual ticket text.,Analyze,4
+"Review a proposed NLP solution based on natural language processing for the situation where a help desk must classify multilingual ticket text. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new NLP solution that combines natural language processing with an improvement over matching only a short English keyword list for the situation where a help desk must classify multilingual ticket text.,Create,6
+"Identify one common use of AI bias, ethics, and explainability.",Remember,1
+"Explain the relationship between AI bias, ethics, and explainability and hiding model decisions from reviewers.",Understand,2
+"Apply the rules of AI bias, ethics, and explainability to the case where an automated hiring model disadvantages a group, and determine the next action needed to detect harm and support accountable decisions.",Apply,3
+"Categorize the technical factors involved when an automated hiring model disadvantages a group, and show how they relate to AI bias, ethics, and explainability.",Analyze,4
+"Prioritize AI bias, ethics, and explainability and hiding model decisions from reviewers for the situation where an automated hiring model disadvantages a group, and justify the order according to how well each can detect harm and support accountable decisions.",Evaluate,5
+"Create an implementation and evaluation plan for a responsible-AI governance plan using AI bias, ethics, and explainability, given that an automated hiring model disadvantages a group and the solution must detect harm and support accountable decisions.",Create,6
+Define data cleaning.,Remember,1
+"Explain how data cleaning is relevant when customer records contain duplicates, invalid dates, and missing fields.",Understand,2
+"When customer records contain duplicates, invalid dates, and missing fields, how would you apply data cleaning to improve quality without introducing hidden bias? State the concrete steps.",Apply,3
+"Analyze the situation in which customer records contain duplicates, invalid dates, and missing fields. What evidence would show that data cleaning is a major factor?",Analyze,4
+"Evaluate whether data cleaning or deleting every incomplete row is more suitable when customer records contain duplicates, invalid dates, and missing fields. Justify which better supports the goal to improve quality without introducing hidden bias.",Evaluate,5
+"Design a cleaning protocol that uses data cleaning for the situation where customer records contain duplicates, invalid dates, and missing fields and must improve quality without introducing hidden bias. Include its main components and decisions.",Create,6
+List two standard characteristics of exploratory data analysis.,Remember,1
+Summarize the main difference between exploratory data analysis and building a predictive model immediately.,Understand,2
+"Use exploratory data analysis to solve this practical problem: a team receives an unfamiliar sales dataset. Show how the solution would discover structure, anomalies, and useful questions.",Apply,3
+"Break down the problem where a team receives an unfamiliar sales dataset, and distinguish the role of exploratory data analysis from building a predictive model immediately.",Analyze,4
+"Critique a proposal to use exploratory data analysis when a team receives an unfamiliar sales dataset. Judge it against security, cost, performance, and the need to discover structure, anomalies, and useful questions.",Evaluate,5
+"Propose an original EDA plan based on exploratory data analysis to address the case where a team receives an unfamiliar sales dataset. Show how the proposal will discover structure, anomalies, and useful questions.",Create,6
+State the primary purpose of descriptive and inferential statistics.,Remember,1
+Give an example that illustrates descriptive and inferential statistics in the situation where a sample is used to compare two interface designs.,Understand,2
+Demonstrate how descriptive and inferential statistics would be used to produce a statistical analysis for the case where a sample is used to compare two interface designs.,Apply,3
+"Examine the causes and effects in the case where a sample is used to compare two interface designs, focusing on descriptive and inferential statistics.",Analyze,4
+Assess the risks and benefits of choosing descriptive and inferential statistics instead of reporting sample means as certain population facts for the case where a sample is used to compare two interface designs.,Evaluate,5
+"Develop a complete statistical analysis using descriptive and inferential statistics for the case where a sample is used to compare two interface designs, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with data visualization.,Remember,1
+Explain why data visualization can help to communicate the comparison accurately.,Understand,2
+"Configure or implement data visualization for a system in which executives misread a chart with a truncated axis, so that it can communicate the comparison accurately.",Apply,3
+"Trace the system behavior when executives misread a chart with a truncated axis, and identify which part of data visualization prevents it from communicate the comparison accurately.",Analyze,4
+Recommend whether data visualization should be adopted when executives misread a chart with a truncated axis. Defend the recommendation using explicit criteria and the goal to communicate the comparison accurately.,Evaluate,5
+Construct a prototype specification for a visualization redesign that applies data visualization when executives misread a chart with a truncated axis and is intended to communicate the comparison accurately.,Create,6
+What is meant by the term data pipelines?,Remember,1
+Describe in your own words how data pipelines works when daily reports use inconsistent manual extracts.,Understand,2
+Replace copying data between spreadsheets with an appropriate use of data pipelines in the situation where daily reports use inconsistent manual extracts. What would you do?,Apply,3
+Compare the consequences of using data pipelines and copying data between spreadsheets in the situation where daily reports use inconsistent manual extracts.,Analyze,4
+"Review a proposed automated data pipeline based on data pipelines for the situation where daily reports use inconsistent manual extracts. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new automated data pipeline that combines data pipelines with an improvement over copying data between spreadsheets for the situation where daily reports use inconsistent manual extracts.,Create,6
+Identify one common use of big-data processing.,Remember,1
+Explain the relationship between big-data processing and running a single-threaded local script.,Understand,2
+"Apply the rules of big-data processing to the case where terabytes of event data exceed one machine's memory, and determine the next action needed to scale processing and recover from worker failure.",Apply,3
+"Categorize the technical factors involved when terabytes of event data exceed one machine's memory, and show how they relate to big-data processing.",Analyze,4
+"Prioritize big-data processing and running a single-threaded local script for the situation where terabytes of event data exceed one machine's memory, and justify the order according to how well each can scale processing and recover from worker failure.",Evaluate,5
+"Create an implementation and evaluation plan for a distributed processing design using big-data processing, given that terabytes of event data exceed one machine's memory and the solution must scale processing and recover from worker failure.",Create,6

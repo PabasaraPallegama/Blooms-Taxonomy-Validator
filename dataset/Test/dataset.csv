@@ -1,0 +1,145 @@
+﻿question,bloom_level,bloom_level_number
+Define user research.,Remember,1
+Explain how user research is relevant when a team designs a health app from internal assumptions.,Understand,2
+"When a team designs a health app from internal assumptions, how would you apply user research to understand real goals, contexts, and limitations? State the concrete steps.",Apply,3
+Analyze the situation in which a team designs a health app from internal assumptions. What evidence would show that user research is a major factor?,Analyze,4
+"Evaluate whether user research or asking only the development team is more suitable when a team designs a health app from internal assumptions. Justify which better supports the goal to understand real goals, contexts, and limitations.",Evaluate,5
+"Design a user-research plan that uses user research for the situation where a team designs a health app from internal assumptions and must understand real goals, contexts, and limitations. Include its main components and decisions.",Create,6
+List two standard characteristics of personas and user journeys.,Remember,1
+Summarize the main difference between personas and user journeys and creating personas from stereotypes.,Understand,2
+Use personas and user journeys to solve this practical problem: requirements treat all customers as identical. Show how the solution would represent distinct needs and pain points.,Apply,3
+"Break down the problem where requirements treat all customers as identical, and distinguish the role of personas and user journeys from creating personas from stereotypes.",Analyze,4
+"Critique a proposal to use personas and user journeys when requirements treat all customers as identical. Judge it against security, cost, performance, and the need to represent distinct needs and pain points.",Evaluate,5
+Propose an original evidence-based journey model based on personas and user journeys to address the case where requirements treat all customers as identical. Show how the proposal will represent distinct needs and pain points.,Create,6
+State the primary purpose of prototyping.,Remember,1
+Give an example that illustrates prototyping in the situation where stakeholders disagree about a complex workflow.,Understand,2
+Demonstrate how prototyping would be used to produce a prototype plan for the case where stakeholders disagree about a complex workflow.,Apply,3
+"Examine the causes and effects in the case where stakeholders disagree about a complex workflow, focusing on prototyping.",Analyze,4
+Assess the risks and benefits of choosing prototyping instead of building the full product before feedback for the case where stakeholders disagree about a complex workflow.,Evaluate,5
+"Develop a complete prototype plan using prototyping for the case where stakeholders disagree about a complex workflow, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with usability evaluation.,Remember,1
+Explain why usability evaluation can help to identify and prioritize interaction problems.,Understand,2
+"Configure or implement usability evaluation for a system in which users abandon a multi-step registration form, so that it can identify and prioritize interaction problems.",Apply,3
+"Trace the system behavior when users abandon a multi-step registration form, and identify which part of usability evaluation prevents it from identify and prioritize interaction problems.",Analyze,4
+Recommend whether usability evaluation should be adopted when users abandon a multi-step registration form. Defend the recommendation using explicit criteria and the goal to identify and prioritize interaction problems.,Evaluate,5
+Construct a prototype specification for a usability study that applies usability evaluation when users abandon a multi-step registration form and is intended to identify and prioritize interaction problems.,Create,6
+What is meant by the term digital accessibility?,Remember,1
+Describe in your own words how digital accessibility works when a learning portal excludes screen-reader and keyboard users.,Understand,2
+Replace adding an accessibility statement only with an appropriate use of digital accessibility in the situation where a learning portal excludes screen-reader and keyboard users. What would you do?,Apply,3
+Compare the consequences of using digital accessibility and adding an accessibility statement only in the situation where a learning portal excludes screen-reader and keyboard users.,Analyze,4
+"Review a proposed accessibility remediation plan based on digital accessibility for the situation where a learning portal excludes screen-reader and keyboard users. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new accessibility remediation plan that combines digital accessibility with an improvement over adding an accessibility statement only for the situation where a learning portal excludes screen-reader and keyboard users.,Create,6
+Identify one common use of information architecture.,Remember,1
+Explain the relationship between information architecture and adding more top-level menu items.,Understand,2
+"Apply the rules of information architecture to the case where users cannot find policies in a large intranet, and determine the next action needed to support predictable navigation and search.",Apply,3
+"Categorize the technical factors involved when users cannot find policies in a large intranet, and show how they relate to information architecture.",Analyze,4
+"Prioritize information architecture and adding more top-level menu items for the situation where users cannot find policies in a large intranet, and justify the order according to how well each can support predictable navigation and search.",Evaluate,5
+"Create an implementation and evaluation plan for a content organization scheme using information architecture, given that users cannot find policies in a large intranet and the solution must support predictable navigation and search.",Create,6
+Define sensors and actuators.,Remember,1
+Explain how sensors and actuators is relevant when a greenhouse must measure temperature and control ventilation.,Understand,2
+"When a greenhouse must measure temperature and control ventilation, how would you apply sensors and actuators to respond accurately and safely? State the concrete steps.",Apply,3
+Analyze the situation in which a greenhouse must measure temperature and control ventilation. What evidence would show that sensors and actuators is a major factor?,Analyze,4
+Evaluate whether sensors and actuators or using a sensor without calibration or an actuator limit is more suitable when a greenhouse must measure temperature and control ventilation. Justify which better supports the goal to respond accurately and safely.,Evaluate,5
+Design a control system specification that uses sensors and actuators for the situation where a greenhouse must measure temperature and control ventilation and must respond accurately and safely. Include its main components and decisions.,Create,6
+List two standard characteristics of IoT communication protocols.,Remember,1
+Summarize the main difference between IoT communication protocols and using a heavyweight protocol without testing.,Understand,2
+"Use IoT communication protocols to solve this practical problem: battery devices send small messages over an unreliable link. Show how the solution would balance overhead, reliability, and power.",Apply,3
+"Break down the problem where battery devices send small messages over an unreliable link, and distinguish the role of IoT communication protocols from using a heavyweight protocol without testing.",Analyze,4
+"Critique a proposal to use IoT communication protocols when battery devices send small messages over an unreliable link. Judge it against security, cost, performance, and the need to balance overhead, reliability, and power.",Evaluate,5
+"Propose an original protocol selection based on IoT communication protocols to address the case where battery devices send small messages over an unreliable link. Show how the proposal will balance overhead, reliability, and power.",Create,6
+State the primary purpose of edge and cloud processing.,Remember,1
+Give an example that illustrates edge and cloud processing in the situation where a safety alarm needs millisecond response and long-term analytics.,Understand,2
+Demonstrate how edge and cloud processing would be used to produce a edge-cloud architecture for the case where a safety alarm needs millisecond response and long-term analytics.,Apply,3
+"Examine the causes and effects in the case where a safety alarm needs millisecond response and long-term analytics, focusing on edge and cloud processing.",Analyze,4
+Assess the risks and benefits of choosing edge and cloud processing instead of sending every decision to a distant cloud for the case where a safety alarm needs millisecond response and long-term analytics.,Evaluate,5
+"Develop a complete edge-cloud architecture using edge and cloud processing for the case where a safety alarm needs millisecond response and long-term analytics, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with IoT security.,Remember,1
+"Explain why IoT security can help to support unique identity, updates, and isolation.",Understand,2
+"Configure or implement IoT security for a system in which thousands of cameras ship with shared default passwords, so that it can support unique identity, updates, and isolation.",Apply,3
+"Trace the system behavior when thousands of cameras ship with shared default passwords, and identify which part of IoT security prevents it from support unique identity, updates, and isolation.",Analyze,4
+"Recommend whether IoT security should be adopted when thousands of cameras ship with shared default passwords. Defend the recommendation using explicit criteria and the goal to support unique identity, updates, and isolation.",Evaluate,5
+"Construct a prototype specification for a device security design that applies IoT security when thousands of cameras ship with shared default passwords and is intended to support unique identity, updates, and isolation.",Create,6
+What is meant by the term IoT data pipelines?,Remember,1
+Describe in your own words how IoT data pipelines works when sensor readings arrive out of order and contain gaps.,Understand,2
+Replace appending them without timestamps or validation with an appropriate use of IoT data pipelines in the situation where sensor readings arrive out of order and contain gaps. What would you do?,Apply,3
+Compare the consequences of using IoT data pipelines and appending them without timestamps or validation in the situation where sensor readings arrive out of order and contain gaps.,Analyze,4
+"Review a proposed telemetry pipeline based on IoT data pipelines for the situation where sensor readings arrive out of order and contain gaps. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new telemetry pipeline that combines IoT data pipelines with an improvement over appending them without timestamps or validation for the situation where sensor readings arrive out of order and contain gaps.,Create,6
+Identify one common use of power management.,Remember,1
+Explain the relationship between power management and keeping its radio active continuously.,Understand,2
+"Apply the rules of power management to the case where a remote sensor must operate for two years on battery, and determine the next action needed to meet reporting needs within the power budget.",Apply,3
+"Categorize the technical factors involved when a remote sensor must operate for two years on battery, and show how they relate to power management.",Analyze,4
+"Prioritize power management and keeping its radio active continuously for the situation where a remote sensor must operate for two years on battery, and justify the order according to how well each can meet reporting needs within the power budget.",Evaluate,5
+"Create an implementation and evaluation plan for a energy-management plan using power management, given that a remote sensor must operate for two years on battery and the solution must meet reporting needs within the power budget.",Create,6
+Define instruction cycles and CPU pipelines.,Remember,1
+Explain how instruction cycles and CPU pipelines is relevant when a processor stalls on dependent instructions.,Understand,2
+"When a processor stalls on dependent instructions, how would you apply instruction cycles and CPU pipelines to increase throughput while preserving correctness? State the concrete steps.",Apply,3
+Analyze the situation in which a processor stalls on dependent instructions. What evidence would show that instruction cycles and CPU pipelines is a major factor?,Analyze,4
+Evaluate whether instruction cycles and CPU pipelines or raising clock speed without examining hazards is more suitable when a processor stalls on dependent instructions. Justify which better supports the goal to increase throughput while preserving correctness.,Evaluate,5
+Design a pipeline improvement proposal that uses instruction cycles and CPU pipelines for the situation where a processor stalls on dependent instructions and must increase throughput while preserving correctness. Include its main components and decisions.,Create,6
+List two standard characteristics of cache and memory hierarchy.,Remember,1
+Summarize the main difference between cache and memory hierarchy and adding more storage at the slowest level.,Understand,2
+Use cache and memory hierarchy to solve this practical problem: a numerical program repeatedly accesses nonlocal data. Show how the solution would reduce average access time.,Apply,3
+"Break down the problem where a numerical program repeatedly accesses nonlocal data, and distinguish the role of cache and memory hierarchy from adding more storage at the slowest level.",Analyze,4
+"Critique a proposal to use cache and memory hierarchy when a numerical program repeatedly accesses nonlocal data. Judge it against security, cost, performance, and the need to reduce average access time.",Evaluate,5
+Propose an original memory-access optimization based on cache and memory hierarchy to address the case where a numerical program repeatedly accesses nonlocal data. Show how the proposal will reduce average access time.,Create,6
+State the primary purpose of instruction set architecture.,Remember,1
+Give an example that illustrates instruction set architecture in the situation where a device needs low power and efficient common operations.,Understand,2
+Demonstrate how instruction set architecture would be used to produce a ISA evaluation for the case where a device needs low power and efficient common operations.,Apply,3
+"Examine the causes and effects in the case where a device needs low power and efficient common operations, focusing on instruction set architecture.",Analyze,4
+Assess the risks and benefits of choosing instruction set architecture instead of choosing an ISA only by instruction count for the case where a device needs low power and efficient common operations.,Evaluate,5
+"Develop a complete ISA evaluation using instruction set architecture for the case where a device needs low power and efficient common operations, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with parallel processing.,Remember,1
+Explain why parallel processing can help to gain speedup while managing coordination.,Understand,2
+"Configure or implement parallel processing for a system in which a workload has both independent tasks and serial dependencies, so that it can gain speedup while managing coordination.",Apply,3
+"Trace the system behavior when a workload has both independent tasks and serial dependencies, and identify which part of parallel processing prevents it from gain speedup while managing coordination.",Analyze,4
+Recommend whether parallel processing should be adopted when a workload has both independent tasks and serial dependencies. Defend the recommendation using explicit criteria and the goal to gain speedup while managing coordination.,Evaluate,5
+Construct a prototype specification for a parallelization plan that applies parallel processing when a workload has both independent tasks and serial dependencies and is intended to gain speedup while managing coordination.,Create,6
+What is meant by the term buses and input/output?,Remember,1
+Describe in your own words how buses and input/output works when a fast processor waits for slow peripheral transfers.,Understand,2
+Replace polling every device continuously with an appropriate use of buses and input/output in the situation where a fast processor waits for slow peripheral transfers. What would you do?,Apply,3
+Compare the consequences of using buses and input/output and polling every device continuously in the situation where a fast processor waits for slow peripheral transfers.,Analyze,4
+"Review a proposed I/O design based on buses and input/output for the situation where a fast processor waits for slow peripheral transfers. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new I/O design that combines buses and input/output with an improvement over polling every device continuously for the situation where a fast processor waits for slow peripheral transfers.,Create,6
+Identify one common use of computer performance measurement.,Remember,1
+Explain the relationship between computer performance measurement and selecting the higher clock rate automatically.,Understand,2
+"Apply the rules of computer performance measurement to the case where two systems advertise different clock rates and core counts, and determine the next action needed to compare performance for the real workload.",Apply,3
+"Categorize the technical factors involved when two systems advertise different clock rates and core counts, and show how they relate to computer performance measurement.",Analyze,4
+"Prioritize computer performance measurement and selecting the higher clock rate automatically for the situation where two systems advertise different clock rates and core counts, and justify the order according to how well each can compare performance for the real workload.",Evaluate,5
+"Create an implementation and evaluation plan for a benchmark plan using computer performance measurement, given that two systems advertise different clock rates and core counts and the solution must compare performance for the real workload.",Create,6
+Define scope definition and work breakdown structures.,Remember,1
+Explain how scope definition and work breakdown structures is relevant when a project receives continuous unapproved feature requests.,Understand,2
+"When a project receives continuous unapproved feature requests, how would you apply scope definition and work breakdown structures to control work while preserving agreed value? State the concrete steps.",Apply,3
+Analyze the situation in which a project receives continuous unapproved feature requests. What evidence would show that scope definition and work breakdown structures is a major factor?,Analyze,4
+Evaluate whether scope definition and work breakdown structures or adding every request immediately is more suitable when a project receives continuous unapproved feature requests. Justify which better supports the goal to control work while preserving agreed value.,Evaluate,5
+Design a scope and WBS baseline that uses scope definition and work breakdown structures for the situation where a project receives continuous unapproved feature requests and must control work while preserving agreed value. Include its main components and decisions.,Create,6
+List two standard characteristics of estimation and scheduling.,Remember,1
+Summarize the main difference between estimation and scheduling and assigning one arbitrary completion date.,Understand,2
+"Use estimation and scheduling to solve this practical problem: a team must plan work with uncertain effort and dependencies. Show how the solution would show realistic sequence, estimates, and contingency.",Apply,3
+"Break down the problem where a team must plan work with uncertain effort and dependencies, and distinguish the role of estimation and scheduling from assigning one arbitrary completion date.",Analyze,4
+"Critique a proposal to use estimation and scheduling when a team must plan work with uncertain effort and dependencies. Judge it against security, cost, performance, and the need to show realistic sequence, estimates, and contingency.",Evaluate,5
+"Propose an original project schedule based on estimation and scheduling to address the case where a team must plan work with uncertain effort and dependencies. Show how the proposal will show realistic sequence, estimates, and contingency.",Create,6
+State the primary purpose of project risk management.,Remember,1
+Give an example that illustrates project risk management in the situation where a critical supplier may miss a delivery.,Understand,2
+Demonstrate how project risk management would be used to produce a risk response plan for the case where a critical supplier may miss a delivery.,Apply,3
+"Examine the causes and effects in the case where a critical supplier may miss a delivery, focusing on project risk management.",Analyze,4
+Assess the risks and benefits of choosing project risk management instead of waiting until the delay occurs for the case where a critical supplier may miss a delivery.,Evaluate,5
+"Develop a complete risk response plan using project risk management for the case where a critical supplier may miss a delivery, including assumptions, structure, and validation steps.",Create,6
+Name two components or techniques commonly associated with stakeholder communication.,Remember,1
+Explain why stakeholder communication can help to provide timely information for each audience.,Understand,2
+"Configure or implement stakeholder communication for a system in which technical progress reports confuse business sponsors, so that it can provide timely information for each audience.",Apply,3
+"Trace the system behavior when technical progress reports confuse business sponsors, and identify which part of stakeholder communication prevents it from provide timely information for each audience.",Analyze,4
+Recommend whether stakeholder communication should be adopted when technical progress reports confuse business sponsors. Defend the recommendation using explicit criteria and the goal to provide timely information for each audience.,Evaluate,5
+Construct a prototype specification for a communication plan that applies stakeholder communication when technical progress reports confuse business sponsors and is intended to provide timely information for each audience.,Create,6
+What is meant by the term IT governance and compliance?,Remember,1
+Describe in your own words how IT governance and compliance works when a regulated organization adopts a new cloud service.,Understand,2
+Replace treating compliance as a final audit task with an appropriate use of IT governance and compliance in the situation where a regulated organization adopts a new cloud service. What would you do?,Apply,3
+Compare the consequences of using IT governance and compliance and treating compliance as a final audit task in the situation where a regulated organization adopts a new cloud service.,Analyze,4
+"Review a proposed governance control framework based on IT governance and compliance for the situation where a regulated organization adopts a new cloud service. What should be accepted, rejected, or improved, and why?",Evaluate,5
+Formulate a new governance control framework that combines IT governance and compliance with an improvement over treating compliance as a final audit task for the situation where a regulated organization adopts a new cloud service.,Create,6
+Identify one common use of IT service and vendor management.,Remember,1
+Explain the relationship between IT service and vendor management and renewing the contract without performance evidence.,Understand,2
+"Apply the rules of IT service and vendor management to the case where a hosted service repeatedly misses response targets, and determine the next action needed to improve accountability, continuity, and value.",Apply,3
+"Categorize the technical factors involved when a hosted service repeatedly misses response targets, and show how they relate to IT service and vendor management.",Analyze,4
+"Prioritize IT service and vendor management and renewing the contract without performance evidence for the situation where a hosted service repeatedly misses response targets, and justify the order according to how well each can improve accountability, continuity, and value.",Evaluate,5
+"Create an implementation and evaluation plan for a service and vendor review using IT service and vendor management, given that a hosted service repeatedly misses response targets and the solution must improve accountability, continuity, and value.",Create,6
